@@ -35,3 +35,17 @@ ul.main-nav {
 .main-nav a:hover {
 	color: #0cd98a;
 }
+
+#home {
+	background: url(../img/bg-image.jpg) no-repeat fixed center;
+	background-size: cover;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center; /*flex-end*/
+}
+#home .wrapper-text h1 {
+	background: rgba(0,0,0, 0.8);
+	color: #fff;
+	padding: 10px 20px 10px;
+}
