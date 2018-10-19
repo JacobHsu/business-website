@@ -12,6 +12,8 @@
 
 [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/#search=flexbox)  
 
+[Font Awesome](https://fontawesome.com/)  [Download](https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fonts-with-css)  `css\all.min.css`  `webfonts`  
+
 ### Deploying
 
 Settings / GitHub Pages / Source/ `master branch /docs folder` save  

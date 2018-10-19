@@ -1,5 +1,30 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,700);
 
+/* GENERAL */
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h2 {
+	font-family: 'Open Sans';
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+h2:after {
+	content: ""; 
+	display: block;
+	margin: 0 auto;
+	padding-top: 10px;
+	border-bottom: 4px solid #0cd98a;
+	width: 90px;
+}
+
+.section {
+	margin: 40px 0 40px;
+}
+
 /* MAIN MENU */
 .main-menu {
 	position: fixed;
@@ -48,4 +73,19 @@ ul.main-nav {
 	background: rgba(0,0,0, 0.8);
 	color: #fff;
 	padding: 10px 20px 10px;
+}
+
+/* SERVICES SECTION 3 COLUMN LAYOUT */
+.flex-grid {
+	display: flex;
+}
+
+.flex-grid .col {
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.flex-grid .col i {
+	margin-bottom: 20px;
 }
