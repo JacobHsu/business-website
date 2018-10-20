@@ -21,6 +21,11 @@ h2:after {
 	width: 90px;
 }
 
+p {
+	font-size: 16px;
+	font-family: 'Open Sans';
+}
+
 .section {
 	margin: 40px 0 40px;
 }
@@ -88,4 +93,18 @@ ul.main-nav {
 
 .flex-grid .col i {
 	margin-bottom: 20px;
+}
+
+/* ABOUT */
+#about {
+	background: url(../img/about-us.jpeg) no-repeat fixed center;
+	background-size: cover;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+#about .about-us-text {
+	width: 500px;
+	text-align: center;
 }

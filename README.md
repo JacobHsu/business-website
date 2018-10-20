@@ -5,7 +5,7 @@
 
 [Brackets](http://brackets.io/)  
 > extension manager / Available / search / emmet / install  
-> installed / emmet `! tab` 
+> installed / emmet `! tab` `div#about.section`  
 
 [Download Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/download/) 
 > Compiled CSS and JS / Download  
