@@ -133,3 +133,13 @@ ul.main-nav {
 	flex-direction: column;
 	justify-content: center;
 }
+
+/* EVENTS */
+#events {
+	padding: 60px 0 60px;
+	background: #0d98ba;
+	color: #fff;
+}
+#events h2:after {
+	border-bottom: 4px solid #fff;
+}
