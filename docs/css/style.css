@@ -108,3 +108,28 @@ ul.main-nav {
 	width: 500px;
 	text-align: center;
 }
+
+/* TESTIMONIALS */
+.testimonials-wrapper {
+	width: 600px;
+	margin: 0 auto;
+}
+.testimonials-wrapper .testimonial-box {
+	display: flex;
+	padding: 20px;
+}
+.testimonials-wrapper .image-testimonial {
+	padding: 20px;
+}
+.testimonials-wrapper .image-testimonial img {
+	width: 200px;
+	border-radius: 50%;
+}
+
+
+.testimonials-wrapper .text-testimonail,
+.testimonials-wrapper .image-testimonial {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
