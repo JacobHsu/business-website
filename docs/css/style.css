@@ -143,3 +143,15 @@ ul.main-nav {
 #events h2:after {
 	border-bottom: 4px solid #fff;
 }
+
+/* CONTACT */
+#contact form input {
+	border-radius: 0;
+}
+
+#contact form .custom-button {
+	background: #0d98ba;
+	padding: 5px 10px;
+	border: none;
+	cursor: pointer;
+}
