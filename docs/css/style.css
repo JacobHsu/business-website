@@ -155,3 +155,20 @@ ul.main-nav {
 	border: none;
 	cursor: pointer;
 }
+
+/* FOOTER */
+footer {
+	background: #333;
+	color: #fff;
+	padding: 40px 0 0;
+}
+footer .footer-wrapper .col {
+	text-align: left;
+}
+footer .social-wrapper a {
+	color: #fff;
+	padding: 6px;
+}
+footer .social-wrapper a:hover {
+	color: #0d98ba;
+}
