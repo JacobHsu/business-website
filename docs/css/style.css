@@ -172,3 +172,9 @@ footer .social-wrapper a {
 footer .social-wrapper a:hover {
 	color: #0d98ba;
 }
+
+/* SUB FOOTER */
+footer .sub-footer {
+    background-color: #222;
+    padding: 20px 0 20px;
+}
