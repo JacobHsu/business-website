@@ -62,7 +62,8 @@ ul.main-nav {
 }
 
 .main-nav a:active,
-.main-nav a:hover {
+.main-nav a:hover,
+.main-nav a.active {
 	color: #0cd98a;
 }
 
