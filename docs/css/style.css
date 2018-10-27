@@ -265,3 +265,19 @@ footer .sub-footer {
     background-color: #222;
     padding: 20px 0 20px;
 }
+
+/* RESPONSIVE */
+@media screen and (max-width: 991px) {
+	.flex-grid {
+		display: block;
+	}
+	.testimonials-wrapper .testimonial-box {
+		display: block;
+	}
+	.testimonials-wrapper {
+		width: 100%;
+	}
+	.testimonials-wrapper .image-testimonial img {
+		margin: 0 auto;
+	}
+}
